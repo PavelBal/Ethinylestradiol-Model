@@ -3,7 +3,7 @@
     "Projects": [
         {
             "Id": "Ethinylestradiol",
-            "Path": "../Ethinylestradiol-Model.json",
+            "Path": "../../Ethinylestradiol-Model.json",
             "BuildingBlocks": [],
             "SimulationParameters": []
         }
